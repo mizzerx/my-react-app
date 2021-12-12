@@ -2,7 +2,7 @@
   "name": "mizzerx.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mizzerx.github.io",
+  "homepage": "https://mizzerx.github.io/my-react-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
